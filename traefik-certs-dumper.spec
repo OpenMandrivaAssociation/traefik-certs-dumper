@@ -9,6 +9,7 @@ Summary:	Tool to dump ACME data from Traefik to certificates
 URL:		https://github.com/ldez/traefik-certs-dumper
 License:	Apache-2.0
 Group:		Servers
+BuildRequires:	golang
 
 %description
 Tool to dump ACME data from Traefik to certificates
